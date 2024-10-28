@@ -7,8 +7,8 @@ If not,just run'sudo apt install opencv'and'sudo apt install ffmpeg'
 
 # Install
 
-'''git clone https://github.com/BaiYouShiWo/OpenCV-rtsp-streamer.git'''   
-''' cd OpenCV-rtsp-streamer'''   
-''' mkdir build && cd build'''   
-''' cmake .. && make'''   
+```git clone https://github.com/BaiYouShiWo/OpenCV-rtsp-streamer.git```   
+``` cd OpenCV-rtsp-streamer ```   
+``` mkdir build && cd build```   
+``` cmake .. && make ```  
 
